@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Galaxias Creativas">
+  <title>Galaxias Creativas</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./main.css">
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/three.js/87/three.min.js" as="script"><!-- GSAP + ScrollTrigger + ScrollSmoother -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollSmoother.min.js"></script>
+
+  <link rel="icon" type="image/png" href="assets/images/favicon/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon/favicon.svg" />
+  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png" />
+  <link rel="manifest" href="assets/images/favicon/site.webmanifest" />
+</head>
+
+
+<body>
+  <div id="loader">
+  <img src="./assets/images/loader.gif" alt="Cargando...">
+</div>
+
+  <section class="home-page">
+    <nav class="top-nav">
+    <div class="nav-container">
+      <img src="./assets/images/logo_galaxias_blanco_2.png" alt="Galaxias Logo" class="nav-logo">
+    </div>
+  </nav>
+  <canvas></canvas>
+  <div class="cloud-separator">
+    <img src="./assets/images/cloud1.svg" alt="Cloud 1"  pxmousemove xmovement="0" ymovement="5">
+    <img src="./assets/images/cloud2.svg" alt="Cloud 2"  pxmousemove xmovement="0" ymovement="10">
+    <img src="./assets/images/cloud3.svg" alt="Cloud 3"  pxmousemove xmovement="0" ymovement="15">
+    <img src="./assets/images/cloud4.svg" alt="Cloud 4">
+  </div>
+  </section>
+
+<script>
+  window.addEventListener('load', () => {
+    document.body.classList.add('loaded');
+    const logo = document.querySelector('.nav-logo');
+    logo.classList.add('animate__animated', 'animate__backInRight');
+  });
+</script>
+
+  
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/87/three.min.js'></script>
+  <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/127738/OrbitControls.js'></script>
+  <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/127738/perlin.js'></script>
+  <script src="./script.js" defer></script>
+</body>
+</html>

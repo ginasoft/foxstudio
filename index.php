@@ -64,7 +64,7 @@
                   </div>
                </div>
                <div class="offcanvas-menu__social social nav-fade">
-                  <a href="https://www.instagram.com/foxstudio.com.ar/" target="_blank" aria-label="seguinos en instagram">
+                  <a href="https://www.instagram.com/foxstudioarg" target="_blank" aria-label="seguinos en instagram">
                      <i class="fa-brands fa-instagram"></i>
                   </a>
                </div>
@@ -253,7 +253,7 @@
                                  <i class="fa-solid fa-arrow-right"></i>
                               </span>
                               <h2 class="title title-anim">
-                                 Creamos Soluciones Digitales
+                                 Somos lo que hacemos
                               </h2>
                               <div class="paragraph">
                                  <p>Construimos sitios webs teniendo en cuenta los valores de tu marca, creando conexión y confianza con tus clientes a través de una página web atractiva y eficaz. Nuestro equipo crea experiencias digitales e interfaces únicas para conectarte con tu audiencia.</p>
@@ -272,7 +272,7 @@
                                  </span>
                                  <h2>
                                     <a href="servicios.php">
-                                       Experiencias UI / UX
+                                       Páginas Webs 
                                        <i class="fa-sharp fa-solid fa-arrow-up-right"></i>
                                     </a>
                                  </h2>
@@ -286,7 +286,7 @@
                                  </span>
                                  <h2>
                                     <a href="servicios.php">
-                                       Desarrollo web
+                                       Tiendas Online
                                        <i class="fa-sharp fa-solid fa-arrow-up-right"></i>
                                     </a>
                                  </h2>
@@ -300,7 +300,7 @@
                                  </span>
                                  <h2>
                                     <a href="servicios.php">
-                                       Marketing Digital
+                                       Aplicaciones Web
                                        <i class="fa-sharp fa-solid fa-arrow-up-right"></i>
                                     </a>
                                  </h2>
@@ -314,7 +314,7 @@
                                  </span>
                                  <h2>
                                     <a href="servicios.php">
-                                       Comunicación
+                                       Automatizaciones
                                        <i class="fa-sharp fa-solid fa-arrow-up-right"></i>
                                     </a>
                                  </h2>

@@ -1,2 +1,30 @@
-# Ignorar archivo PDF específico
+# Ignorar
 FoxStudio - Propuesta.pdf
+**/*.scss
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales o backups
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos del entorno local
+.env
+.vscode/
+node_modules/
+dist/
+build/
+
+# Archivos del editor
+*.code-workspace
+
+# Dependencias
+package-lock.json
+yarn.lock
+
+# Otros
+*.zip

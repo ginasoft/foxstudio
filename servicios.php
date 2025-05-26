@@ -45,8 +45,12 @@
                <section class="section service-t">
                   <div class="container">
                      <div class="row">
+
                         <div class="col-12">
                            <div class="service-t__slider">
+
+
+
                               <div class="service-t-single-wrapper">
                                  <div class="service-t__slider-single">
                                     <div class="intro">
@@ -55,18 +59,33 @@
                                           <i class="fa-solid fa-arrow-right"></i>
                                        </span>
                                        <h4>
-                                          <a href="#">Desarrollo</a>
+                                          <a href="#">Landing Page</a>
                                        </h4>
                                     </div>
                                     <ul>
-                                       <li>Frontend</li>
-                                       <li>Backend</li>
-                                       <li>Aplicaciones Móviles</li>
-                                       <li>Sistemas web</li>
-                                       <li>E-commerce</li>
-                                       <li>Mantenimiento</li>
-                                       <li>Actualizaciones</li>
+                                       <li>Una sola página</li>
+                                       <li>Diseño personalizado</li>
+                                       <li>Responsive Design</li>
+                                       <li>Animaciones</li>
+                                       <li>Integración botón Whatsapp</li>
+                                       <li>Enlace a redes sociales</li>
+                                       <li>Multilenguaje</li>
+                                       <li>Optimización SEO</li>
+                                       <li>Google Analytics</li>
+                                       <li>Cuentas de correo</li>
+                                       <li>Mapa interactivo</li>
+                                       <li>Formulario de contacto</li>
+                                       <li>Certificado SSL gratis</li>
+                                       <li>Hosting (gratis por 6 meses)</li>
+                                       <li>Registro de dominio (gratis por 12 meses)</li>
+                                       <li>Mantenimiento web incluido</li>
                                     </ul>
+                                       <div class="cta">
+                                       <a href="https://wa.me/5491139398075?text=Más%20info%20Landing%20Page">
+                                          <i class="icon-arrow-top-right"></i>
+                                          <span>Me interesa</span>
+                                       </a>
+                                    </div>
                                  </div>
                               </div>
                               <div class="service-t-single-wrapper">
@@ -77,18 +96,33 @@
                                           <i class="fa-solid fa-arrow-right"></i>
                                        </span>
                                        <h4>
-                                          <a href="#">Diseño UX</a>
+                                          <a href="#">Página Web</a>
                                        </h4>
                                     </div>
                                     <ul>
-                                       <li>Investigación de Usuarios</li>
-                                       <li>Gestión de Contenido</li>
-                                       <li>Wireframes Iniciales</li>
-                                       <li>Pruebas de Usabilidad</li>
-                                       <li>Storyboarding Visual</li>
-                                       <li>Flujos de Usuario</li>
-                                       <li>Prototipos Interactivos</li>
+                                       <li>Las páginas que necesites</li>
+                                       <li>Diseño personalizado</li>
+                                       <li>Responsive Design</li>
+                                       <li>Animaciones</li>
+                                       <li>Integración botón Whatsapp</li>
+                                       <li>Enlace a Redes Sociales</li>
+                                       <li>Multilenguaje</li>
+                                       <li>Optimización SEO</li>
+                                       <li>Google Analytics</li>
+                                       <li>Cuentas de correo</li>
+                                       <li>Mapa interactivo</li>
+                                       <li>Formulario de Contacto</li>
+                                       <li>Certificado SSL gratis</li>
+                                       <li>Hosting (gratis por 6 meses)</li>
+                                       <li>Registro de dominio (gratis por 12 meses)</li>
+                                       <li>Mantenimiento Web incluido</li>
                                     </ul>
+                                    <div class="cta">
+                                       <a href="https://wa.me/5491139398075?text=Más%20info%20Página%20Web">
+                                          <i class="icon-arrow-top-right"></i>
+                                          <span>Me interesa</span>
+                                       </a>
+                                    </div>
                                  </div>
                               </div>
 
@@ -100,23 +134,40 @@
                                           <i class="fa-solid fa-arrow-right"></i>
                                        </span>
                                        <h4>
-                                          <a href="#">Diseño UI</a>
+                                          <a href="#">Ecommerce</a>
                                        </h4>
                                     </div>
                                     <ul>
-                                       <li>Mockups Finales</li>
-                                       <li>Sistema de Diseño</li>
-                                       <li>Diseño de Interfaz</li>
-                                       <li>Adaptabilidad</li>
-                                       <li>Integración Visual</li>
-                                       <li>Identidad</li>
-                                       <li>Soporte Post-Entrega</li>
+                                       <li>Tienda online</li>
+                                       <li>Panel autoadministrable</li>
+                                       <li>Diseño personalizado</li>
+                                       <li>Responsive Design</li>
+                                       <li>Animaciones</li>
+                                       <li>Integración botón Whatsapp</li>
+                                       <li>Métodos de pago</li>
+                                       <li>Gestión de stock</li>
+                                       <li>Enlace a redes sociales</li>
+                                       <li>Multilenguaje</li>
+                                       <li>Notificaciones automáticas</li>
+                                       <li>Optimización SEO</li>
+                                       <li>Google Analytics</li>
+                                       <li>Cuentas de correo</li>
+                                       <li>Mapa Interactivo</li>
+                                       <li>Certificado SSL gratis</li>
+                                       <li>Hosting (gratis por 6 meses)</li>
+                                       <li>Registro de dominio (gratis por 12 meses)</li>
+                                       <li>Mantenimiento Web incluido</li>
                                     </ul>
+                                    <div class="cta">
+                                       <a href="https://wa.me/5491139398075?text=Más%20info%20Tienda%20Online">
+                                          <i class="icon-arrow-top-right"></i>
+                                          <span>Me interesa</span>
+                                       </a>
+                                    </div>
                                  </div>
                               </div>
 
-
-                              <div class="service-t-single-wrapper">
+                               <div class="service-t-single-wrapper">
                                  <div class="service-t__slider-single">
                                     <div class="intro">
                                        <span class="sub-title">
@@ -124,94 +175,71 @@
                                           <i class="fa-solid fa-arrow-right"></i>
                                        </span>
                                        <h4>
-                                          <a href="#">Integración</a>
+                                          <a href="#">Autoadmin</a>
                                        </h4>
                                     </div>
                                     <ul>
+                                       <li>Panel Autoadministrable</li>
+                                       <li>Diseño Personalizado</li>
+                                       <li>Responsive Design</li>
+                                       <li>Animaciones</li>
+                                       <li>Integración botón Whatsapp</li>
+                                       <li>Métodos de pago</li>
+                                       <li>Enlace a redes sociales</li>
+                                       <li>Optimización SEO</li>
+                                       <li>Google Analytics</li>
+                                       <li>Cuentas de correo</li>
+                                       <li>Certificado SSL gratis</li>
+                                       <li>Hosting (gratis por 6 meses)</li>
+                                       <li>Registro de dominio (gratis por 12 meses)</li>
+                                       <li>Mantenimiento Web incluido</li>
+                                    </ul>
+                                    <div class="cta">
+                                       <a href="https://wa.me/5491139398075?text=Más%20info%20Web%20Autoadministrable">
+                                          <i class="icon-arrow-top-right"></i>
+                                          <span>Me interesa</span>
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+                              <div class="service-t-single-wrapper">
+                                 <div class="service-t__slider-single">
+                                    <div class="intro">
+                                       <span class="sub-title">
+                                          05
+                                          <i class="fa-solid fa-arrow-right"></i>
+                                       </span>
+                                       <h4>
+                                          <a href="#">Aplicación web</a>
+                                       </h4>
+                                    </div>
+                                    <ul>
+                                       <li>A medida</li>
+                                       <li>Responsive Design</li>
+                                       <li>Últimas tecnologías</li>
                                        <li>Conexión con APIs</li>
                                        <li>Automatización de Procesos</li>
                                        <li>Sincronización de Datos</li>
-                                       <li>Middleware y Microservicios</li>
-                                       <li>Gestión de Flujos de trabajo</li>
-                                       <li>Optimización de Procesos</li>
-                                       <li>Seguridad</li>
+                                       <li>Escalabilidad y arquitectura modular</li>
+                                       <li>Panel de administración y usuarios</li>
+                                       <li>Cuentas de correo propias</li>
+                                       <li>Certificado SSL Gratis</li>
+                                       <li>Registro de dominio (gratis por 12 meses)</li>
+                                       <li>Hosting (Cloud Server)</li>
+                                       <li>Mantenimiento web incluido</li>
                                     </ul>
-                                 </div>
-                              </div>
-
-
-                              <div class="service-t-single-wrapper">
-                                 <div class="service-t__slider-single">
-                                    <div class="intro">
-                                       <span class="sub-title">
-                                          01
-                                          <i class="fa-solid fa-arrow-right"></i>
-                                       </span>
-                                       <h4>
-                                          <a href="#">Desarrollo</a>
-                                       </h4>
+                                     <div class="cta">
+                                       <a href="https://wa.me/5491139398075?text=Más%20info%20Aplicación%20Web">
+                                          <i class="icon-arrow-top-right"></i>
+                                          <span>Me interesa</span>
+                                       </a>
                                     </div>
-                                    <ul>
-                                       <li>Frontend</li>
-                                       <li>Backend</li>
-                                       <li>Aplicaciones Móviles</li>
-                                       <li>Sistemas web</li>
-                                       <li>E-commerce</li>
-                                       <li>Mantenimiento</li>
-                                       <li>Actualizaciones</li>
-                                    </ul>
                                  </div>
                               </div>
 
-
-                              <div class="service-t-single-wrapper">
-                                 <div class="service-t__slider-single">
-                                    <div class="intro">
-                                       <span class="sub-title">
-                                          02
-                                          <i class="fa-solid fa-arrow-right"></i>
-                                       </span>
-                                       <h4>
-                                          <a href="#">Diseño UX</a>
-                                       </h4>
-                                    </div>
-                                    <ul>
-                                       <li>Investigación de Usuarios</li>
-                                       <li>Arquitectura de la Información</li>
-                                       <li>Wireframes Iniciales</li>
-                                       <li>Pruebas de Usabilidad</li>
-                                       <li>Storyboarding Visual</li>
-                                       <li>Flujos de Usuario</li>
-                                       <li>Prototipos Interactivos</li>
-                                    </ul>
-                                 </div>
-                              </div>
-
-
-                          
-                              <div class="service-t-single-wrapper">
-                                 <div class="service-t__slider-single">
-                                    <div class="intro">
-                                       <span class="sub-title">
-                                          03
-                                          <i class="fa-solid fa-arrow-right"></i>
-                                       </span>
-                                       <h4>
-                                          <a href="#">Diseño UI</a>
-                                       </h4>
-                                    </div>
-                                    <ul>
-                                       <li>Mockups Finales</li>
-                                       <li>Sistema de Diseño</li>
-                                       <li>Diseño de Interfaz</li>
-                                       <li>Adaptabilidad</li>
-                                       <li>Integración Visual</li>
-                                       <li>Identidad</li>
-                                       <li>Soporte Post-Entrega</li>
-                                    </ul>
-                                 </div>
-                              </div>
-
+                              
                               
                            </div>
                         </div>

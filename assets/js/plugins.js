@@ -574,6 +574,7 @@
 				autoplaySpeed: 5000,
 				slidesToScroll: 1,
 				arrows: true,
+				initialSlide: 2,
 				prevArrow: $(".prev-service-t"),
 				nextArrow: $(".next-service-t"),
 				dots: false,

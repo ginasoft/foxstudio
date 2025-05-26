@@ -67,7 +67,7 @@
                               <div class="skill-wrap">
                                  <div class="skill-bar-single">
                                     <div class="skill-bar-title">
-                                       <p class="primary-text">Diseños responsivos</p>
+                                       <p class="primary-text">Diseños responsive</p>
                                     </div>
                                     <div class="skill-bar-wrapper" data-percent="100%">
                                        <div class="skill-bar">
@@ -79,7 +79,7 @@
                                  </div>
                                  <div class="skill-bar-single">
                                     <div class="skill-bar-title">
-                                       <p class="primary-text">Administrables</p>
+                                       <p class="primary-text">Paneles Administrables</p>
                                     </div>
                                     <div class="skill-bar-wrapper" data-percent="100%">
                                        <div class="skill-bar">

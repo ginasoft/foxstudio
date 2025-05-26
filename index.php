@@ -300,7 +300,7 @@
                                  </span>
                                  <h2>
                                     <a href="servicios.php">
-                                       Aplicaciones Web
+                                       Aplicaciones
                                        <i class="fa-sharp fa-solid fa-arrow-up-right"></i>
                                     </a>
                                  </h2>

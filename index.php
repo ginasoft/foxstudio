@@ -64,7 +64,7 @@
                   </div>
                </div>
                <div class="offcanvas-menu__social social nav-fade">
-                  <a href="https://www.instagram.com/foxstudioarg" target="_blank" aria-label="seguinos en instagram">
+                  <a href="https://www.instagram.com/foxstudioarg" target="_blank" aria-label="Seguinos en instagram">
                      <i class="fa-brands fa-instagram"></i>
                   </a>
                </div>
@@ -112,7 +112,8 @@
                      class="banner-one-thumb d-none d-sm-block g-ban-one">
                   <img src="assets/images/star.png" alt="Image" class="star">
                   <div class="banner-left-text banner-social-text d-none d-md-flex">
-                     <a href="mailto:info@foxstudio.com.ar">mail : info@foxstudio.com.ar</a>
+                     <a href="mailto:info@foxstudio.com.ar">Mail : info@foxstudio.com.ar</a>
+                     <a href="https://wa.me/5491139398075">Whatsapp : +54 9 11 3939 8075</a>
                   </div>
                   <div class="banner-right-text banner-social-text d-none d-md-flex">
                      <a href="https://www.instagram.com/foxstudioarg/" target="_blank">
@@ -334,6 +335,67 @@
                      <div class="line"></div>
                   </div>
                </section>
+
+                 <!-- ==== sponsor start ==== -->
+                  <!--
+               <div class="sponsor section pb-0">
+                  <div class="container-fluid">
+                     <div class="row justify-content-center">
+                        <div class="col-12">
+                           <div class="sponsor__slider ">
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/one.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/two.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/three.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/four.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/five.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/six.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/one.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/two.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/three.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/four.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/five.png" alt="Image">
+                              </div>
+                              <div class="sponsor__slider-item">
+                                 <img src="assets/images/sponsor/six.png" alt="Image">
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="lines d-none d-lg-flex">
+                     <div class="line"></div>
+                     <div class="line"></div>
+                     <div class="line"></div>
+                     <div class="line"></div>
+                     <div class="line"></div>
+                  </div>
+               </div>
+
+-->
+               <!-- ==== / sponsor end ==== -->
+
+
                <!-- ==== next page start ==== -->
                <section class="section next-page">
                   <div class="next__text-slider">

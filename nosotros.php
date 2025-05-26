@@ -62,7 +62,7 @@
                                  Impulso Digital
                               </h2>
                               <div class="paragraph">
-                                 <p>En FoxStudio, somos nativos digitales apasionados por la innovación y la creatividad, dedicados a desarrollar soluciones tecnológicas que optimizan tiempo y recursos. Nuestra cultura asegura que cada proyecto no solo cumpla, sino que supere las expectativas, combinando estrategias alineadas con claridad operativa y un enfoque eficaz.</p>
+                                 <p>Somos nativos digitales apasionados por la innovación y la creatividad, dedicados a desarrollar soluciones tecnológicas que optimizan tiempo y recursos. Nuestra cultura asegura que cada proyecto no solo cumpla, sino que supere las expectativas, combinando estrategias alineadas con claridad operativa y un enfoque eficaz.</p>
                               </div>
                               <div class="skill-wrap">
                                  <div class="skill-bar-single">
@@ -126,15 +126,14 @@
                </section>
                <!-- ==== / agency end ==== -->
              
-               <!-- ==== testimonial start ==== -->
-               <!-- 
                
-               <section class="section testimonial pt-0 pb-0 position-relative">
+               <!-- ==== testimonial start ==== -->
+               <section class="section testimonial position-relative">
                   <div class="testimonial__text-slider">
                      <div class="testimonial__text-slider-single">
                         <h2 class="h1">
                            <a href="client-feedback.html">
-                              client's testimonial
+                              testimonios
                               <i class="fa-sharp fa-solid fa-arrow-down-right"></i>
                            </a>
                         </h2>
@@ -142,7 +141,7 @@
                      <div class="testimonial__text-slider-single">
                         <h2 class="h1">
                            <a href="client-feedback.html">
-                              client's testimonial
+                              testimonios
                               <i class="fa-sharp fa-solid fa-arrow-down-right"></i>
                            </a>
                         </h2>
@@ -150,7 +149,7 @@
                      <div class="testimonial__text-slider-single">
                         <h2 class="h1">
                            <a href="client-feedback.html">
-                              client's testimonial
+                              testimonios
                               <i class="fa-sharp fa-solid fa-arrow-down-right"></i>
                            </a>
                         </h2>
@@ -158,7 +157,7 @@
                      <div class="testimonial__text-slider-single">
                         <h2 class="h1">
                            <a href="client-feedback.html">
-                              client's testimonial
+                              testimonios
                               <i class="fa-sharp fa-solid fa-arrow-down-right"></i>
                            </a>
                         </h2>
@@ -166,7 +165,7 @@
                      <div class="testimonial__text-slider-single">
                         <h2 class="h1">
                            <a href="client-feedback.html">
-                              client's testimonial
+                              testimonios
                               <i class="fa-sharp fa-solid fa-arrow-down-right"></i>
                            </a>
                         </h2>
@@ -174,7 +173,7 @@
                      <div class="testimonial__text-slider-single">
                         <h2 class="h1">
                            <a href="client-feedback.html">
-                              client's testimonial
+                              testimonios
                               <i class="fa-sharp fa-solid fa-arrow-down-right"></i>
                            </a>
                         </h2>
@@ -182,7 +181,7 @@
                      <div class="testimonial__text-slider-single">
                         <h2 class="h1">
                            <a href="client-feedback.html">
-                              client's testimonial
+                              testimonios
                               <i class="fa-sharp fa-solid fa-arrow-down-right"></i>
                            </a>
                         </h2>
@@ -209,13 +208,11 @@
                                              <i class="fa-solid fa-quote-right"></i>
                                           </div>
                                           <div class="content">
-                                             <h4>posuere luctus orci. Donec vitae mattis quam, vitae tempor arcu. Aenean
-                                                non odio porttitor, convallis erat sit amet, facilisis velit. Nulla
-                                                ornare convallis malesuada. Phasellus molestie, ipsum ac fringilla.</h4>
+                                             <h4>Excelente servicio en el armado de páginas web. La agencia cumplió con todo lo que le pedí y el diseño fue justo lo que necesitaba, completamente adaptado a mis necesidades. Recomiendo FoxStudio 100%.</h4>
                                           </div>
                                           <div class="content-cta">
-                                             <h5>Daniel Smith</h5>
-                                             <p>Senior engineer</p>
+                                             <h5>Evelyn</h5>
+                                             <p>Traductora Pública</p>
                                           </div>
                                        </div>
                                     </div>
@@ -225,7 +222,7 @@
                                  <div class="row gaper align-items-center">
                                     <div class="col-12 col-lg-4 col-xxl-4">
                                        <div class="thumb">
-                                          <img src="assets/images/testimonial/s-thumb-two.png" alt="Image">
+                                          <img src="assets/images/testimonial/s-thumb.png" alt="Image">
                                           <svg xmlns="http://www.w3.org/2000/svg" width="44" height="322"
                                              viewBox="0 0 44 322" fill="none" class="d-none d-lg-block">
                                              <path d="M43 -0.000976562V151.999L2 192.999H43V321.999" stroke="#414141" />
@@ -238,13 +235,11 @@
                                              <i class="fa-solid fa-quote-right"></i>
                                           </div>
                                           <div class="content">
-                                             <h4>posuere luctus orci. Donec vitae mattis quam, vitae tempor arcu. Aenean
-                                                non odio porttitor, convallis erat sit amet, facilisis velit. Nulla
-                                                ornare convallis malesuada. Phasellus molestie, ipsum ac fringilla.</h4>
+                                             <h4>Natalia entiende desde el inicio lo que un proyecto necesita y lo ejecuta con eficiencia y gran calidad. Cumple con tiempos y objetivos, y se nota su compromiso y profesionalismo en las entrega.</h4>
                                           </div>
                                           <div class="content-cta">
-                                             <h5>Daniel Smith</h5>
-                                             <p>Senior engineer</p>
+                                             <h5>Gabriel</h5>
+                                             <p>Técnico Electromecánico</p>
                                           </div>
                                        </div>
                                     </div>
@@ -254,7 +249,7 @@
                                  <div class="row gaper align-items-center">
                                     <div class="col-12 col-lg-4 col-xxl-4">
                                        <div class="thumb">
-                                          <img src="assets/images/testimonial/s-thumb-three.png" alt="Image">
+                                          <img src="assets/images/testimonial/s-thumb.png" alt="Image">
                                           <svg xmlns="http://www.w3.org/2000/svg" width="44" height="322"
                                              viewBox="0 0 44 322" fill="none" class="d-none d-lg-block">
                                              <path d="M43 -0.000976562V151.999L2 192.999H43V321.999" stroke="#414141" />
@@ -267,13 +262,11 @@
                                              <i class="fa-solid fa-quote-right"></i>
                                           </div>
                                           <div class="content">
-                                             <h4>posuere luctus orci. Donec vitae mattis quam, vitae tempor arcu. Aenean
-                                                non odio porttitor, convallis erat sit amet, facilisis velit. Nulla
-                                                ornare convallis malesuada. Phasellus molestie, ipsum ac fringilla.</h4>
+                                             <h4>Trabajar con FoxStudio fue una experiencia enriquecedora. No solo se nota la capacidad técnica, sino que además están hasta en el último detalle. Tienen habilidad para explicar y convertir ideas en soluciones concretas.</h4>
                                           </div>
                                           <div class="content-cta">
-                                             <h5>Daniel Smith</h5>
-                                             <p>Senior engineer</p>
+                                             <h5>Laura</h5>
+                                             <p>Licenciada en comunicación</p>
                                           </div>
                                        </div>
                                     </div>
@@ -295,8 +288,14 @@
                      <img class="other-section-image" src="assets/images/testimonial/s-thumb.png"
                         alt="Next Slide Image">
                   </div>
+                  <div class="lines d-none d-lg-flex">
+                     <div class="line"></div>
+                     <div class="line"></div>
+                     <div class="line"></div>
+                     <div class="line"></div>
+                     <div class="line"></div>
+                  </div>
                </section>
-               -->
                <!-- ==== / testimonial end ==== -->
                <!-- ==== sponsor start ==== -->
                <!--

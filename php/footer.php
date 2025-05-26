@@ -12,6 +12,10 @@
                                 <i class="fa-sharp fa-solid fa-location-dot"></i>
                                 Buenos Aires, Argentina
                                 </a>
+                                 <a href="https://wa.me/5491139398075">
+                                 <i class="fa-brands fa-solid fa-whatsapp"></i>
+                                 (+54) 9 11 3939 8075
+                              </a>
                               <a href="mailto:info@foxstudio.com.ar">
                                  <i class="fa-sharp fa-solid fa-envelope"></i>
                                  info@foxstudio.com.ar
@@ -45,6 +49,30 @@
                            </div>
                         </div>
                      </div>
+
+                     
+                     <div class="col-12 col-lg-5 col-xl-4">
+                        <div class="footer__single">
+                           <div class="footer__single-intro">
+                              <h5>Hablemos</h5>
+                           </div>
+                           <div class="footer__single-content">
+                              <p>Envianos tu e-mail y a la brevedad nos pondremos en contacto.</p>
+                              <div class="footer__single-form">
+                                 <form action="envianostuemail.php" method="post">
+                                    <div class="input-email">
+                                       <input type="email" name="subscribe-news" id="subscribeNews"
+                                          placeholder="Tu e-mail" required>
+                                       <button type="submit" class="subscribe">
+                                          <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                                       </button>
+                                    </div>
+                                 </form>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     
                   <div class="row">
                      <div class="col-12">
                         <div class="footer__copyright">
@@ -63,6 +91,12 @@
                                   
                                     <a href="https://www.instagram.com/foxstudioarg/" target="_blank">
                                        <i class="fa-brands fa-instagram"></i>
+                                    </a>
+                                    <a href="mailto:info@foxstudio.com.ar" target="_blank">
+                                       <i class="fa-sharp fa-solid fa-envelope"></i>
+                                    </a>
+                                     <a href="https://wa.me/5491139398075" target="_blank">
+                                       <i class="fa-brands fa-solid fa-whatsapp"></i>
                                     </a>
                                  </div>
                               </div>

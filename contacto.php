@@ -101,11 +101,11 @@
                                  <h4>Horarios</h4>
                                  <p>
                                     Lun - Vie
-                                    08 am - 5 pm
+                                    09 am - 21 pm
                                  </p>
                                  <p>
                                     Sat
-                                    11 am - 3pm
+                                    10 am - 17pm
                                  </p>
                               </div>
                            </div>

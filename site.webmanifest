@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Fox Studio",
+  "short_name": "FOX",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",

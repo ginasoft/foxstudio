@@ -6,6 +6,15 @@
    <title>FOX Studio - Agencia Digital</title>
    <meta name="keywords" content="creative, agency, portfolio, web designer, web developer, desarrollador web, programador, webs, agencia, creativa, portfolio">
    <meta name="description" content="Fox Studio - Agencia Digital">
+   <script type="application/ld+json">
+      {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "FOX Studio",
+      "url": "https://foxstudio.com.ar",
+      "logo": "https://foxstudio.com.ar/web-app-manifest-512x512.png"
+      }
+   </script>
 
    
    <!-- Favicon-->

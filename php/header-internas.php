@@ -42,7 +42,7 @@
                <nav class="mobile-menu__wrapper">
                   <div class="mobile-menu__header nav-fade">
                      <div class="logo">
-                        <a href="index.html">
+                        <a href="index.php">
                            <img src="assets/images/logo/FoxStudio-tiny-strong.png" alt="" title="">
                         </a>
                      </div>

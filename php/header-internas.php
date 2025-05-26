@@ -59,7 +59,7 @@
                      <a href="mailto:info@foxstudio.com.ar" target="_blank" aria-label="Contactanos">
                         <i class="fa-solid fa-envelope"></i>
                      </a>
-                     <a href="https://www.instagram.com/foxstudio.com.ar" target="_blank" aria-label="Seguinos en Instagram">
+                     <a href="https://www.instagram.com/foxstudioarg" target="_blank" aria-label="Seguinos en Instagram">
                         <i class="fa-brands fa-instagram"></i>
                      </a>
                   </div>

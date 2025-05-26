@@ -61,7 +61,7 @@
                               <div class="col-12 col-lg-4">
                                  <div class="social justify-content-center justify-content-lg-end">
                                   
-                                    <a href="https://www.instagram.com/foxstudio.com.ar/" target="_blank">
+                                    <a href="https://www.instagram.com/foxstudioarg/" target="_blank">
                                        <i class="fa-brands fa-instagram"></i>
                                     </a>
                                  </div>

@@ -115,7 +115,7 @@
                      <a href="mailto:info@foxstudio.com.ar">mail : info@foxstudio.com.ar</a>
                   </div>
                   <div class="banner-right-text banner-social-text d-none d-md-flex">
-                     <a href="https://www.instagram.com/foxstudio.com.ar/" target="_blank">
+                     <a href="https://www.instagram.com/foxstudioarg/" target="_blank">
                         instagram
                      </a>
                   </div>
@@ -253,7 +253,7 @@
                                  <i class="fa-solid fa-arrow-right"></i>
                               </span>
                               <h2 class="title title-anim">
-                                 Somos lo que hacemos
+                                 Soluciones digitales
                               </h2>
                               <div class="paragraph">
                                  <p>Construimos sitios webs teniendo en cuenta los valores de tu marca, creando conexión y confianza con tus clientes a través de una página web atractiva y eficaz. Nuestro equipo crea experiencias digitales e interfaces únicas para conectarte con tu audiencia.</p>

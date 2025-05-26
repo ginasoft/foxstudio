@@ -22,5 +22,6 @@ jobs:
         run: |
           rsync -avz --delete \
           -e "ssh -p ${{ secrets.HOSTINGER_PORT }} -o StrictHostKeyChecking=no" \
-          index.php contacto.php nosotros.php servicios.php favicon.ico FoxLogo.webp php/ assets/ \
+          index.php contacto.php nosotros.php servicios.php favicon.ico FoxLogo.webp \
+          assets/ php/ projects/ vendor/ \
           ${{ secrets.HOSTINGER_USER }}@${{ secrets.HOSTINGER_HOST }}:/home/u745655976/domains/foxstudio.com.ar/public_html/

@@ -18,10 +18,13 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.HOSTINGER_KEY }}
 
-      - name: Subir archivos con rsync
+      - name: Subir TODO el proyecto con rsync
         run: |
           rsync -avz --delete \
+          --exclude='.git/' \
+          --exclude='.github/' \
+          --exclude='README.md' \
+          --exclude='FoxStudio - Propuesta.pdf' \
           -e "ssh -p ${{ secrets.HOSTINGER_PORT }} -o StrictHostKeyChecking=no" \
-          index.php contacto.php nosotros.php servicios.php favicon.ico FoxLogo.webp \
-          assets/ php/ projects/ vendor/ \
+          ./ \
           ${{ secrets.HOSTINGER_USER }}@${{ secrets.HOSTINGER_HOST }}:/home/u745655976/domains/foxstudio.com.ar/public_html/

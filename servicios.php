@@ -314,7 +314,7 @@
                                     </div>
                                  </div>
                                  <div class="single-item p-single p-sm body-cn">
-                                    <p>Garantizamos la eficacia. No solo identificamos problemas, sino que también se valida la funcionalidad del diseño para asegurar que la experiencia final sea sin fricciones.</p>
+                                    <p>Garantizamos la eficacia. No solo identificamos problemas, sino que también se valida la funcionalidad del diseño para asegurar que la experiencia final sea satisfactoria.</p>
                                  </div>
                                  <button class="toggle-service-f"></button>
                               </div>
@@ -325,7 +325,7 @@
                                     </div>
                                  </div>
                                  <div class="single-item p-single p-sm body-cn">
-                                    <p>Creamos belleza funcional. Nos centramos en que el diseño, la estética y la accesibilidad de la interfaz, asegurando que cada elemento visual no solo se vea bien, sino que también mejore la experiencia del usuario.
+                                    <p>Creamos funcionalidad que atraen. Nos centramos en que el diseño, la estética y la accesibilidad de la interfaz, asegurando que cada elemento visual no solo se vea bien, sino que también mejore la experiencia del usuario.
 </p>
                                  </div>
                                  <button class="toggle-service-f"></button>

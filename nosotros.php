@@ -59,7 +59,7 @@
                                  <i class="fa-solid fa-arrow-right"></i>
                               </span>
                               <h2 class="title title-anim">
-                                 Somos una agencia Creativa
+                                 Impulso Digital
                               </h2>
                               <div class="paragraph">
                                  <p>En FoxStudio, somos nativos digitales apasionados por la innovación y la creatividad, dedicados a desarrollar soluciones tecnológicas que optimizan tiempo y recursos. Nuestra cultura asegura que cada proyecto no solo cumpla, sino que supere las expectativas, combinando estrategias alineadas con claridad operativa y un enfoque eficaz.</p>
@@ -67,7 +67,7 @@
                               <div class="skill-wrap">
                                  <div class="skill-bar-single">
                                     <div class="skill-bar-title">
-                                       <p class="primary-text">Soluciones Digitales</p>
+                                       <p class="primary-text">Diseños responsivos</p>
                                     </div>
                                     <div class="skill-bar-wrapper" data-percent="100%">
                                        <div class="skill-bar">
@@ -79,7 +79,7 @@
                                  </div>
                                  <div class="skill-bar-single">
                                     <div class="skill-bar-title">
-                                       <p class="primary-text">Diseños responsive</p>
+                                       <p class="primary-text">Administrables</p>
                                     </div>
                                     <div class="skill-bar-wrapper" data-percent="100%">
                                        <div class="skill-bar">
@@ -91,7 +91,7 @@
                                  </div>
                                  <div class="skill-bar-single">
                                     <div class="skill-bar-title">
-                                       <p class="primary-text">Comunicación</p>
+                                       <p class="primary-text">Optimización SEO</p>
                                     </div>
                                     <div class="skill-bar-wrapper" data-percent="100%">
                                        <div class="skill-bar">
@@ -103,7 +103,7 @@
                                  </div>
                                  <div class="skill-bar-single">
                                     <div class="skill-bar-title">
-                                       <p class="primary-text">Marketing Digital</p>
+                                       <p class="primary-text">Escalables y modulares</p>
                                     </div>
                                     <div class="skill-bar-wrapper" data-percent="100%">
                                        <div class="skill-bar">

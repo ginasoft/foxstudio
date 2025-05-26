@@ -59,7 +59,7 @@
                            <div class="footer__single-content">
                               <p>Envianos tu e-mail y a la brevedad nos pondremos en contacto.</p>
                               <div class="footer__single-form">
-                                 <form action="envianostuemail.php" method="post">
+                                 <form action="send.php" method="post">
                                     <div class="input-email">
                                        <input type="email" name="subscribe-news" id="subscribeNews"
                                           placeholder="Tu e-mail" required>

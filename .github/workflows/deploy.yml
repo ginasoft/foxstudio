@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Clonar el código
+      - name: Clonar el código
         uses: actions/checkout@v3
 
-      - name: 🚀 Subir a Hostinger por SSH
+      - name: Subir a Hostinger por SSH
         uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.HOSTINGER_HOST }}
@@ -21,9 +21,12 @@ jobs:
           key: ${{ secrets.HOSTINGER_KEY }}
           port: ${{ secrets.HOSTINGER_PORT }}
           source: |
-            *.php
+            index.php
+            contacto.php
+            nosotros.php
+            servicios.php
             php/
             assets/
             favicon.ico
             FoxLogo.webp
-          target: /home/u123456789/public_html/foxstudio.com.ar
+          target: /home/u123456789/domains/foxstudio.com.ar/public_html

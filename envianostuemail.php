@@ -1,15 +1,15 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["subscribe-news"])) {
-    $to = "info@foxstudio.com.ar"; // tu mail destino
-    $subject = "Nuevo suscriptor";
+    $to = "info@foxstudio.com.ar";
+    $subject = "Contacto";
     $email = filter_var($_POST["subscribe-news"], FILTER_SANITIZE_EMAIL);
-    $message = "Nuevo suscriptor: $email";
+    $message = "Contacto: $email";
     $headers = "From: no-reply@foxstudio.com.ar";
 
     if (mail($to, $subject, $message, $headers)) {
-        echo "Gracias por dejarnos tu e-mail. A la brevedad nos contactaremos para enviarte más información.";
+        header("Location: index.php?email=ok");
     } else {
-        echo "Error al enviar el mensaje.";
+        header("Location: index.php?email=error");
     }
 }
 ?>

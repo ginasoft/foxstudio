@@ -31,7 +31,7 @@
             <nav class="offcanvas-menu__wrapper">
                <div class="offcanvas-menu__header nav-fade">
                   <div class="logo">
-                     <a href="index.html">
+                     <a href="index.php">
                         <img src="assets/images/logo/large-logo-strong.png" alt="" title="">
                      </a>
                   </div>
